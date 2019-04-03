@@ -6,4 +6,4 @@ Instructions To Run:
 - To run the project, you need xampp.
 - The project dosent have a database file.
 
-![image](/home/mohammed/Pictures/Screenshot from 2019-04-04 01-27-41.png)
+![image](https://github.com/Samaan95/Water-Resources-Mapping/blob/master/Screenshot%20from%202019-04-04%2001-27-41.png)
