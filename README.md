@@ -6,4 +6,4 @@ Instructions To Run:
 - To run the project, you need xampp.
 - The project dosent have a database file.
 
-![image]()
+![image](/home/mohammed/Pictures/Screenshot from 2019-04-04 01-27-41.png)
