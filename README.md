@@ -20,5 +20,6 @@ Its a graduation project at Al-Quds University for Bachelor degree of computer s
  5) The reports page
  
 ![image](https://github.com/Samaan95/Water-Resources-Mapping/blob/master/Screenshots/Screenshot%20from%202019-04-04%2001-29-55.png)
- 6) the map water resourses status
+ 6) The map water resourses status
+ 
 ![image](https://github.com/Samaan95/Water-Resources-Mapping/blob/master/Screenshots/Screenshot%20from%202019-04-04%2001-32-04.png)
