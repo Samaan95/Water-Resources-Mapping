@@ -1,5 +1,5 @@
 ### Water-Resources-Mapping
-Its a graduation project at Al-Quds University for Bachelor degree of computer science. It's about mapping the irrigation water and providing status information about the water resources, and how might it affects the crops production.
+Its a graduation project at Al-Quds University for Bachelor degree of computer science. It's about mapping the irrigation water and providing status information about the water resources, and how might it affects the crops production. The project is built by (PHP, HTML, Css, Jquery, bootstrap, Javascript, and Mysql).
 
 ### Instructions To Run:
 - To run the project, xampp is needed.
