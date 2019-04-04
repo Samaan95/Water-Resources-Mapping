@@ -6,8 +6,9 @@ Its a graduation project at Al-Quds University for Bachelor degree of computer s
 - The project dosent have a database file due to the data security.
 
 ### Screenshots of the project:
+ 1) home page
 ![image](https://github.com/Samaan95/Water-Resources-Mapping/blob/master/Screenshots/Screenshot%20from%202019-04-04%2001-27-41.png)
-
+ 2) NavigationBar tabs
 ![image](https://github.com/Samaan95/Water-Resources-Mapping/blob/master/Screenshots/Screenshot%20from%202019-04-04%2001-28-01.png)
 
 ![image](https://github.com/Samaan95/Water-Resources-Mapping/blob/master/Screenshots/Screenshot%20from%202019-04-04%2001-28-20.png)
